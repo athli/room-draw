@@ -1,0 +1,5 @@
+#TODO: add triples in atwood, case, drinkward, others?
+#TODO: doublecheck placement of proctor suites
+#TODO: add a marker for allergy-sensitive (optional, seems like it'd be good)
+#TODO: figure out what's happening to case quads
+#TODO: figure out where DSA is going
